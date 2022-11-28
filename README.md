@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DarrenLCY
 - 👀 I’m interested in marine science, programming, bioinformatics and statistics.
-- 🌱 I’m currently learning and studying marine science at the Memorial University of Newfoundland, Canada.
-- 💞️ I’m looking to collaborate on in-situ ocean temperature data anywhere in the world. Please email me if you have them! 
-- 📫 How to reach me: clishinghiun@mun.ca
+- 🌱 I’m currently doing my PhD in marine heatwaves and coldspells at IMAS, Tasmania, Australia. 
+- 📫 How to reach me: darren.lishinghiung@utas.edu.au
 
 <!---
 DarrenLCY/DarrenLCY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
